@@ -1,4 +1,4 @@
-package com.pg;
+package net.canking.plane;
 
 import java.util.Random;
 import java.util.Vector;
@@ -17,11 +17,7 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.SurfaceHolder.Callback;
 
-/**
- * 
- * @author Himi
- *
- */
+
 public class MySurfaceView extends SurfaceView implements Callback, Runnable {
 	private SurfaceHolder sfh;
 	private Paint paint;

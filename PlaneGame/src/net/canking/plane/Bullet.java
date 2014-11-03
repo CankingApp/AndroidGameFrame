@@ -1,4 +1,4 @@
-package com.pg;
+package net.canking.plane;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

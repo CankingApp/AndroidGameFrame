@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.pg;
+package net.canking.plane;
 
 public final class R {
     public static final class attr {

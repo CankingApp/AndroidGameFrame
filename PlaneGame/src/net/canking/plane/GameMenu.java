@@ -1,4 +1,4 @@
-package com.pg;
+package net.canking.plane;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -6,7 +6,7 @@ import android.graphics.Paint;
 import android.view.MotionEvent;
 
 /**
- * @author Himi
+ * 
  * 
  */
 public class GameMenu {

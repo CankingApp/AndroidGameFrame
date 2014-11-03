@@ -1,4 +1,4 @@
-package com.pg;
+package net.canking.plane;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -7,10 +7,7 @@ import android.util.Log;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
 
-/**
- * @author Himi
- *
- */
+
 public class Player {
 	//主角的血量与血量位图
 	//默认3血
